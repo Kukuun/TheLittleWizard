@@ -1,0 +1,190 @@
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\monster.png
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\portal.png
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\TheLittleWizard.exe
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\TheLittleWizard.pdb
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.dll
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.xml
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\obj\x86\Debug\TheLittleWizard.csprojResolveAssemblyReference.cache
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\obj\x86\Debug\TheLittleWizard.exe
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\obj\x86\Debug\TheLittleWizard.pdb
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Grass.png
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\MagicKey.png
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\MagicTower.png
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Path.png
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Tower.png
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\TowerKey.png
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Water.png
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\WhiteDot.png
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Wizard_Old.png
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Wizard_Young.png
+D:\Projects\Visual Studio\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Tree.png
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Grass.png
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\MagicKey.png
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\MagicTower.png
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Monster.png
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Path.png
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Portal.png
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Tower.png
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\TowerKey.png
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Tree.png
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Water.png
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\WhiteDot.png
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Wizard_Old.png
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Wizard_Young.png
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\TheLittleWizard.exe
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\TheLittleWizard.pdb
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.dll
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.xml
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\obj\x86\Debug\TheLittleWizard.csprojResolveAssemblyReference.cache
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\obj\x86\Debug\TheLittleWizard.exe
+D:\Bitbucket\PathFinding\TheLittleWizard\TheLittleWizard\obj\x86\Debug\TheLittleWizard.pdb
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\obj\x86\Debug\TheLittleWizard.exe
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\obj\x86\Debug\TheLittleWizard.pdb
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Grass.png
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\MagicKey.png
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\MagicTower.png
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Monster.png
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Path.png
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Portal.png
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Tower.png
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\TowerKey.png
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Tree.png
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Water.png
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\WhiteDot.png
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Wizard_Old.png
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Wizard_Young.png
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\TheLittleWizard.exe
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\TheLittleWizard.pdb
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.dll
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.xml
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Moon\Documents\littlewizard\TheLittleWizard\TheLittleWizard\obj\x86\Debug\TheLittleWizard.csprojResolveAssemblyReference.cache
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Grass.png
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\MagicKey.png
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\MagicTower.png
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Monster.png
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Path.png
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Portal.png
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Tower.png
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\TowerKey.png
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Tree.png
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Water.png
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\WhiteDot.png
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Wizard_Old.png
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Wizard_Young.png
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\TheLittleWizard.exe
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\TheLittleWizard.pdb
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\MonoGame.Framework.dll
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.dll
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XAudio2.dll
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D11.dll
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.DXGI.dll
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct2D1.dll
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XInput.dll
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.RawInput.dll
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D9.dll
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\MonoGame.Framework.xml
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.xml
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XAudio2.xml
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D11.xml
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.DXGI.xml
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct2D1.xml
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XInput.xml
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.RawInput.xml
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D9.xml
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\obj\x86\Debug\TheLittleWizard.csprojResolveAssemblyReference.cache
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\obj\x86\Debug\TheLittleWizard.exe
+D:\Dania Projekter\LittleWizard\TheLittleWizard\TheLittleWizard\obj\x86\Debug\TheLittleWizard.pdb
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\obj\x86\Debug\TheLittleWizard.exe
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\obj\x86\Debug\TheLittleWizard.pdb
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Grass.png
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\MagicKey.png
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\MagicTower.png
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Monster.png
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Path.png
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Portal.png
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Tower.png
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\TowerKey.png
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Tree.png
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Water.png
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\WhiteDot.png
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Wizard_Old.png
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\Content\Texture\Wizard_Young.png
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\TheLittleWizard.exe
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\TheLittleWizard.pdb
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\MonoGame.Framework.dll
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.dll
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XAudio2.dll
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D11.dll
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.DXGI.dll
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct2D1.dll
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XInput.dll
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.RawInput.dll
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D9.dll
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\MonoGame.Framework.xml
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.xml
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XAudio2.xml
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D11.xml
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.DXGI.xml
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct2D1.xml
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.XInput.xml
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.RawInput.xml
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\bin\Windows\Debug\SharpDX.Direct3D9.xml
+C:\Users\Munk\Desktop\TheLittleWizard\TheLittleWizard\obj\x86\Debug\TheLittleWizard.csprojResolveAssemblyReference.cache
