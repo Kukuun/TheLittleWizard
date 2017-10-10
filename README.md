@@ -1,6 +1,6 @@
 # TheLittleWizard
 
-Made with: VS MonoGame.
+Made with: VS MonoGame and C#.
 
 A(n) demonstration/implementation of the A* (AStar) pathfinding algorithm.
 
