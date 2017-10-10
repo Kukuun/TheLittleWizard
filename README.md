@@ -2,7 +2,7 @@
 
 Made with: VS MonoGame.
 
-An demonstration/implementation of the A* (AStar) pathfinding algorithm.
+A(n) demonstration/implementation of the A* (AStar) pathfinding algorithm.
 
 Build at: TheLittleWizard\bin\Windows\Release\TheLittleWizard.exe
 
